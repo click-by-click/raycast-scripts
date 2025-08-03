@@ -1,2 +1,3 @@
-# raycast-scripts
-Small scripts to enhance my Raycast workflows
+# Raycast Scripts
+
+You can find videos about most of my scripts on my [YouTube Channel](https://www.youtube.com/@clickbyclick-detours).
